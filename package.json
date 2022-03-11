@@ -36,6 +36,6 @@
   "description": "## Setup Download [Node.js](https://nodejs.org/en/download/). Run this followed commands:",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
-  "author": ""
+  "author": "",
+  "devDependencies": {}
 }
